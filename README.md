@@ -4,7 +4,7 @@ A Laravel package that creates a PostgreSQL view for analyzing database dependen
 
 ## Requirements
 
-- Laravel 10.0 or higher
+- Laravel 10.0 or higher (including Laravel 11)
 - PostgreSQL 12.0 or higher
 - PHP 8.1 or higher
 
